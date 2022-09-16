@@ -42,7 +42,7 @@ h3{
 }
 
 img {
-  align: left; 
+  align: left;
 }
 
 p {
@@ -93,4 +93,14 @@ article {
 
 #nav_text a:hover {
   color: #FFFFFF;
+}
+
+#contactdetails {
+  font-size: 1em;
+  font-weight: bold;
+  text-align: center;
+}
+
+#contactdetails a:hover {
+  color: #ed9390
 }
